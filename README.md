@@ -1,7 +1,7 @@
 # Web Scraping Project- Amazon top rated Books
 
 
-Web scraping Quotes from 'Quotes to Scrape' website using requests & Beautiful Soup Steps to Follow :
+Web scraping Amazon top rated Books using requests & Beautiful Soup Steps to Follow :
 
 - Install important libraries that will be helpful for the project i.e. requests, BeautifulSoup4, pandas
 - Download the web page using the requests library
